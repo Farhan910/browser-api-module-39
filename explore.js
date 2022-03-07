@@ -1,1 +1,4 @@
-console.log(hey);
+const allName = () =>{
+    alert('hey warning')
+    
+}
